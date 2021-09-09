@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+
+    background-color: aqua;
+    height: 60px;
+    text-align: center;
+
+}
+
+.blogSection{
+
+ overflow: hidden;
+ height: 500px;
+}
+
+.blogpart{
+
+    
+    width: 30%;
+    height: 100%;
+    float: left;
+
+}
+
+.one{
+    background-color: blueviolet;
+    height: 50%;
+    width: 100%;
+    text-align: center;
+}
+
+.two{
+    background-color: plum;
+    height: 50%;
+    width: 100%;
+    text-align: center;
+}
+
+.sectionpart{
+  background-color:indianred;
+  width: 70%;
+  height: 100%;
+  float: right;
+  text-align: center; 
+}
+
+.blogs{
+    overflow: hidden;
+    background-color: chartreuse;
+    height: 300px;
+
+}
+.d1{
+    overflow: hidden;
+    background-color: indigo;
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.d11{
+    background-color:lightcoral;
+    width: 50%;
+    height: 100%;
+    float: left;
+    text-align: center;
+    
+}
+.d111{
+    background-color: magenta;
+    height: 50%;
+    width: 100%;
+    text-align: center;
+}
+.d112{
+     background-color:gold;
+     height: 50%;
+     width: 100%;
+     text-align: center;
+}
+
+
+.d12{
+    background-color: lavenderblush;
+    float: right;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+}
+
+.d121{
+    background-color: lightseagreen;
+    height: 50%;
+    width: 100%;
+    text-align: center;
+
+}
+.d122{
+    background-color: maroon;
+    height: 50%;
+    width: 100%;
+    text-align: center;
+
+
+}
+
+.d2{
+    overflow: hidden;
+    background-color: chartreuse;
+    width: 50%;
+    height: 100%;
+    float: right;
+
+}
+
+
+.d21{
+    background-color: lightgreen;
+    width: 50%;
+    height: 100%;
+    float: left;
+    text-align: center;
+   }
+
+   .d211{
+       background-color: mediumblue;
+       width: 100%;
+       height: 50%;
+       text-align: center;
+    }
+
+   .d212{
+       background-color: olive;
+       width: 100%;
+       height: 50%;
+       text-align: center;
+   }
+
+.d22{
+       
+       width: 50%;
+       height: 100%;
+       float: left;
+       text-align: center;
+   }
+
+.d221{
+    background-color: orangered;
+    width: 100%;
+    height: 50%;
+    text-align: center;
+}
+
+.d222{
+    background-color:purple;
+    width: 100%;
+    height: 50%;
+    text-align: center;
+}
+
+.Section1{
+    overflow: hidden;
+    text-align: center;
+    height: 300px;
+    width: 100%;
+
+}
+
+.Section11{
+    background-color: khaki;
+    height: 100%;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.Section12{
+    background-color:saddlebrown;
+    height: 100%;
+    width: 50%;
+   float: right;
+   text-align: center;
+}
+
+
+.Section2{
+ background-color: crimson;
+ height: 300px;
+ overflow: hidden;
+ text-align: center;
+}
+
+.Section21{
+   background-color: crimson;
+    height: 100%;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+
+.Section22{
+    background-color: darkseagreen;
+    height: 100%;
+    width: 50%;
+    float: right;
+    text-align: center;
+}
+
+footer{
+ background-color: darkorange;
+ height: 60px;
+ text-align: center;
+}
